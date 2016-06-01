@@ -12,6 +12,14 @@
 		84064B461CFE7FE900B47A73 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84064B441CFE7FE900B47A73 /* Main.storyboard */; };
 		84064B481CFE7FE900B47A73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84064B471CFE7FE900B47A73 /* Assets.xcassets */; };
 		84064B4B1CFE7FE900B47A73 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84064B491CFE7FE900B47A73 /* LaunchScreen.storyboard */; };
+		84064B5A1CFE801200B47A73 /* A+ – Chào Mào Mái Hót.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84064B521CFE801200B47A73 /* A+ – Chào Mào Mái Hót.mp3 */; };
+		84064B5B1CFE801200B47A73 /* bird0.png in Resources */ = {isa = PBXBuildFile; fileRef = 84064B531CFE801200B47A73 /* bird0.png */; };
+		84064B5C1CFE801200B47A73 /* bird1.png in Resources */ = {isa = PBXBuildFile; fileRef = 84064B541CFE801200B47A73 /* bird1.png */; };
+		84064B5D1CFE801200B47A73 /* bird2.png in Resources */ = {isa = PBXBuildFile; fileRef = 84064B551CFE801200B47A73 /* bird2.png */; };
+		84064B5E1CFE801200B47A73 /* bird3.png in Resources */ = {isa = PBXBuildFile; fileRef = 84064B561CFE801200B47A73 /* bird3.png */; };
+		84064B5F1CFE801200B47A73 /* bird4.png in Resources */ = {isa = PBXBuildFile; fileRef = 84064B571CFE801200B47A73 /* bird4.png */; };
+		84064B601CFE801200B47A73 /* bird5.png in Resources */ = {isa = PBXBuildFile; fileRef = 84064B581CFE801200B47A73 /* bird5.png */; };
+		84064B611CFE801200B47A73 /* jungle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 84064B591CFE801200B47A73 /* jungle.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +30,14 @@
 		84064B471CFE7FE900B47A73 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84064B4A1CFE7FE900B47A73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84064B4C1CFE7FE900B47A73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84064B521CFE801200B47A73 /* A+ – Chào Mào Mái Hót.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "A+ – Chào Mào Mái Hót.mp3"; sourceTree = "<group>"; };
+		84064B531CFE801200B47A73 /* bird0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird0.png; sourceTree = "<group>"; };
+		84064B541CFE801200B47A73 /* bird1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird1.png; sourceTree = "<group>"; };
+		84064B551CFE801200B47A73 /* bird2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird2.png; sourceTree = "<group>"; };
+		84064B561CFE801200B47A73 /* bird3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird3.png; sourceTree = "<group>"; };
+		84064B571CFE801200B47A73 /* bird4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird4.png; sourceTree = "<group>"; };
+		84064B581CFE801200B47A73 /* bird5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird5.png; sourceTree = "<group>"; };
+		84064B591CFE801200B47A73 /* jungle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jungle.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +70,14 @@
 		84064B3F1CFE7FE900B47A73 /* chimSonca */ = {
 			isa = PBXGroup;
 			children = (
+				84064B521CFE801200B47A73 /* A+ – Chào Mào Mái Hót.mp3 */,
+				84064B531CFE801200B47A73 /* bird0.png */,
+				84064B541CFE801200B47A73 /* bird1.png */,
+				84064B551CFE801200B47A73 /* bird2.png */,
+				84064B561CFE801200B47A73 /* bird3.png */,
+				84064B571CFE801200B47A73 /* bird4.png */,
+				84064B581CFE801200B47A73 /* bird5.png */,
+				84064B591CFE801200B47A73 /* jungle.jpg */,
 				84064B401CFE7FE900B47A73 /* AppDelegate.swift */,
 				84064B421CFE7FE900B47A73 /* ViewController.swift */,
 				84064B441CFE7FE900B47A73 /* Main.storyboard */,
@@ -122,9 +146,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84064B5E1CFE801200B47A73 /* bird3.png in Resources */,
 				84064B4B1CFE7FE900B47A73 /* LaunchScreen.storyboard in Resources */,
+				84064B601CFE801200B47A73 /* bird5.png in Resources */,
+				84064B5F1CFE801200B47A73 /* bird4.png in Resources */,
+				84064B5D1CFE801200B47A73 /* bird2.png in Resources */,
 				84064B481CFE7FE900B47A73 /* Assets.xcassets in Resources */,
+				84064B5C1CFE801200B47A73 /* bird1.png in Resources */,
+				84064B5B1CFE801200B47A73 /* bird0.png in Resources */,
+				84064B5A1CFE801200B47A73 /* A+ – Chào Mào Mái Hót.mp3 in Resources */,
 				84064B461CFE7FE900B47A73 /* Main.storyboard in Resources */,
+				84064B611CFE801200B47A73 /* jungle.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
